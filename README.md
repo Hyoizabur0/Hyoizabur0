@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello there!
+- 🌱 I’m currently learning Full Stack Development
+- 🤔 I don't know what I'm doing
 
+# Good yard.
 <!--
 **Hyoizabur0/Hyoizabur0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
