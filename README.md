@@ -1,6 +1,6 @@
 ### Hello there!
-- 🌱 I’m currently learning Full Stack Development
-- 🤔 I don't know what I'm doing
+- I’m currently learning Full Stack Development
+- I don't know what I'm doing
 
 #### Good yard.
 <!--
